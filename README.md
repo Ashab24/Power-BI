@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Ashab
-- 👀 I’m interested in Data Engineering and Data Science  
-- 🌱 I’m currently learning Data Engineering
-- 📫 How to reach me humzaashab24@gmail.com
-
-<!---
-Ashab24/Ashab24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Ashab, a Data Product Management Consultant at Wells Fargo.
+- 💼 Working on data products, SQL, data quality, testing, and analytics enablement.
+- 📊 Building Power BI projects focused on DAX, data modeling, interactive dashboards, and business insights.
+- 🚀 Interested in Business Intelligence, Data Analytics, Data Engineering, and AI-driven analytics.
+- 📫 Reach me at [humzaashab24@gmail.com](mailto:humzaashab24@gmail.com)
